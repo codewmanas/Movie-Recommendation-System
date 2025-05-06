@@ -5,6 +5,7 @@
       <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
+
 ## Overview
 
 The **Movie Recommendation System** is a project that suggests movies to users based on their preferences. It leverages machine learning techniques and popular Python libraries like Scikit-learn, NumPy, and Pandas to deliver personalized recommendations.
