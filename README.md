@@ -1,1 +1,1 @@
-<h1>Movie Recommendation System - ML Project</h1>
+<h1>Movie Recommendation System</h1>
